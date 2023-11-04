@@ -3,7 +3,7 @@ package lister
 import (
 	"testing"
 
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets/resource"
 )
 
 func Test_DuplicateCheck(t *testing.T) {

@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/emicklei/dot"
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets/resource"
 	"github.com/urfave/cli/v2"
 )
 

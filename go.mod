@@ -1,4 +1,4 @@
-module github.com/trek10inc/awsets
+module github.com/fibanez/awsets
 
 go 1.17
 

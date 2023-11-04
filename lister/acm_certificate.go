@@ -5,9 +5,9 @@ import (
 
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/service/acm"
-	"github.com/trek10inc/awsets/arn"
-	"github.com/trek10inc/awsets/context"
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets/arn"
+	"github.com/fibanez/awsets/context"
+	"github.com/fibanez/awsets/resource"
 )
 
 type AWSAcmCertificate struct {

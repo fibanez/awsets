@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/aws/aws-sdk-go-v2/service/codedeploy"
-	"github.com/trek10inc/awsets/context"
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets/context"
+	"github.com/fibanez/awsets/resource"
 )
 
 type AWSCodeDeployApplication struct {

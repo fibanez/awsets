@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets/resource"
 )
 
 // Tests to make sure the documentation is up to date with the current list of supported resource types

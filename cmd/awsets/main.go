@@ -1,6 +1,6 @@
 package main
 
-import "github.com/trek10inc/awsets/cmd/awsets/cmd"
+import "github.com/fibanez/awsets/cmd/awsets/cmd"
 
 var (
 	version = "dev"

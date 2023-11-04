@@ -9,8 +9,8 @@ import (
 	"sync"
 
 	"github.com/fatih/structs"
-	"github.com/trek10inc/awsets/arn"
-	"github.com/trek10inc/awsets/context"
+	"github.com/fibanez/awsets/arn"
+	"github.com/fibanez/awsets/context"
 	"gopkg.in/yaml.v3"
 )
 

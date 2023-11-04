@@ -6,8 +6,8 @@ import (
 
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/service/apigatewayv2"
-	"github.com/trek10inc/awsets/context"
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets/context"
+	"github.com/fibanez/awsets/resource"
 )
 
 type AWSApiGatewayV2DomainName struct {

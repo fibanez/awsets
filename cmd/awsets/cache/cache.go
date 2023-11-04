@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/trek10inc/awsets"
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets"
+	"github.com/fibanez/awsets/resource"
 	"go.etcd.io/bbolt"
 )
 

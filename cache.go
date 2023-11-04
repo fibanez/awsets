@@ -1,6 +1,6 @@
 package awsets
 
-import "github.com/trek10inc/awsets/resource"
+import "github.com/fibanez/awsets/resource"
 
 // Cacher is an interface that defines the necessary functions for an AWSets
 // cache.

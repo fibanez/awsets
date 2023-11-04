@@ -10,9 +10,9 @@ import (
 
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/service/ec2"
-	"github.com/trek10inc/awsets/context"
-	"github.com/trek10inc/awsets/lister"
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets/context"
+	"github.com/fibanez/awsets/lister"
+	"github.com/fibanez/awsets/resource"
 )
 
 type ListerName string

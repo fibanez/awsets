@@ -80,5 +80,5 @@ brews:
       name: trek10-bot
       email: trek10-bot-github@trek10.com
     folder: Formula
-    homepage: https://github.com/trek10inc/awsets
+    homepage: https://github.com/fibanez/awsets
     description: A utility for crawling an AWS account and exporting all its resources for further analysis.

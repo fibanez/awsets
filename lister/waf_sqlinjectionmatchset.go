@@ -5,8 +5,8 @@ import (
 	"sync"
 
 	"github.com/aws/aws-sdk-go-v2/service/waf"
-	"github.com/trek10inc/awsets/context"
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets/context"
+	"github.com/fibanez/awsets/resource"
 )
 
 var listWafSqlInjectionMatchSetsOnce sync.Once

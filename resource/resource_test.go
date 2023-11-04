@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/trek10inc/awsets/context"
+	"github.com/fibanez/awsets/context"
 )
 
 func Test_NewResourceWithTags(t *testing.T) {

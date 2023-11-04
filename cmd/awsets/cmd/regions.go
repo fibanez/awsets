@@ -5,7 +5,7 @@ import (
 	"log"
 	"sort"
 
-	"github.com/trek10inc/awsets"
+	"github.com/fibanez/awsets"
 	"github.com/urfave/cli/v2"
 )
 

@@ -1,8 +1,8 @@
 package lister
 
 import (
-	"github.com/trek10inc/awsets/context"
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets/context"
+	"github.com/fibanez/awsets/resource"
 )
 
 var listers = make([]Lister, 0)

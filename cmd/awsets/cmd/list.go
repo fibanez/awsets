@@ -9,9 +9,9 @@ import (
 	"strings"
 
 	"github.com/cheggaaa/pb/v3"
-	"github.com/trek10inc/awsets"
-	"github.com/trek10inc/awsets/cmd/awsets/cache"
-	"github.com/trek10inc/awsets/context"
+	"github.com/fibanez/awsets"
+	"github.com/fibanez/awsets/cmd/awsets/cache"
+	"github.com/fibanez/awsets/context"
 	"github.com/urfave/cli/v2"
 )
 

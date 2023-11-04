@@ -7,7 +7,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/aws"
 	cfg "github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/service/sts"
-	"github.com/trek10inc/awsets/context"
+	"github.com/fibanez/awsets/context"
 )
 
 // config is a struct that holds all the configuration values for the List method. This allows for a "functional option"

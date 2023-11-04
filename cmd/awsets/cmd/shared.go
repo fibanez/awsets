@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/trek10inc/awsets/resource"
+	"github.com/fibanez/awsets/resource"
 )
 
 type IdLite struct {
